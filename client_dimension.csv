@@ -1,501 +1,501 @@
 client_id,client_name,region,industry,tier,size,since_date
-0,Turner Group,Scotland,Banking,C,<50,2026-01-15
-1,Tomlinson Group,Scotland,Banking,B,<50,2023-06-16
-2,Taylor-Bradley,Other,Banking,A+,50-250,2025-09-10
-3,"Barber, King and Wilkinson",Scotland,Transport,B,50-250,2016-02-23
-4,"Saunders, Miller and Jones",London,Healthcare,B,<50,2017-12-10
-5,Skinner-King,Scotland,Retail,A+,250-1000,2015-01-30
-6,Bond Inc,London,Banking,A+,<50,2014-03-06
-7,Fowler Inc,South East,Retail,A+,1000+,2018-05-29
-8,"Johnson, Webb and Martin",London,Energy,B,50-250,2020-02-17
-9,Williams-Gray,North West,Energy,A,50-250,2021-01-09
-10,"Stephens, Brown and Byrne",London,Tech,A,50-250,2023-12-31
-11,Thompson-Walker,London,Manufacturing,B,1000+,2018-08-30
-12,Atkinson-Henderson,North West,Tech,C,<50,2015-11-30
-13,Howarth Inc,South East,Energy,A,250-1000,2024-06-14
-14,Robinson-Watson,London,Media,A,1000+,2019-12-26
-15,Mellor and Sons,South East,Media,A+,50-250,2023-02-19
-16,"Rice, Hilton and Jones",South East,Tech,C,1000+,2017-07-16
-17,"Bell, Robson and Kirk",Other,Energy,A+,250-1000,2018-12-05
-18,Hughes-Houghton,Wales,Retail,B,50-250,2018-12-06
-19,Smith PLC,Other,Healthcare,C,250-1000,2024-09-13
-20,Allen-Bond,London,Healthcare,B,<50,2018-07-11
-21,"Kelly, Wilkins and Lewis",Wales,Healthcare,B,<50,2023-09-23
-22,Watson-Hussain,South East,Energy,A,50-250,2025-01-29
-23,Richardson Ltd,London,Banking,A+,<50,2025-09-15
-24,Wong-Byrne,London,Banking,C,<50,2024-05-16
-25,"Griffiths, Hayes and Martin",North West,Energy,B,50-250,2024-04-19
-26,"Price, Hayes and Thompson",Scotland,Tech,B,250-1000,2014-06-27
-27,Rogers Ltd,South East,Tech,C,<50,2025-04-08
-28,Bennett-Goddard,London,Energy,B,50-250,2023-09-03
-29,Thompson-Hall,London,Banking,A,50-250,2015-02-18
-30,Nicholson-Adams,North West,Energy,B,50-250,2018-08-25
-31,Thorpe-Hughes,South East,Healthcare,A,<50,2026-01-12
-32,Carter LLC,North West,Manufacturing,A,50-250,2026-01-28
-33,Smith-Lewis,London,Media,C,50-250,2016-06-17
-34,"Bell, Holmes and Gardner",Other,Banking,B,250-1000,2015-01-08
-35,"Martin, Fleming and Griffiths",South East,Banking,C,1000+,2024-02-14
-36,"Dickinson, Price and Owen",London,Energy,B,50-250,2024-11-08
-37,Russell-Hall,London,Energy,B,<50,2021-12-04
-38,Kaur Inc,South East,Healthcare,B,<50,2017-05-18
-39,Hayes Ltd,London,Education,A,250-1000,2022-06-12
-40,"Kennedy, Roberts and Wilkins",North West,Tech,B,50-250,2024-02-06
-41,West-Finch,Scotland,Private Equity,A,250-1000,2024-07-14
-42,Matthews-Price,London,Banking,A,<50,2016-02-26
-43,"Black, Akhtar and Wells",London,Banking,C,<50,2022-08-31
-44,Robinson Group,North West,Media,B,250-1000,2024-08-15
-45,Watts-Smith,South East,Private Equity,C,<50,2023-10-17
-46,Barnes LLC,North West,Private Equity,A,50-250,2017-01-26
-47,"Allen, James and Smith",London,Banking,A,50-250,2018-11-14
-48,Davies Inc,London,Education,A,250-1000,2019-08-21
-49,Palmer-Bailey,North West,Banking,A,250-1000,2020-06-07
-50,"Bradshaw, Potter and Hilton",South East,Healthcare,B,<50,2023-01-12
-51,Johnson-Oliver,South East,Energy,C,1000+,2023-09-19
-52,Stanley-Howells,London,Banking,A,50-250,2023-04-22
-53,Hayes-Walker,South East,Education,B,50-250,2023-06-25
-54,Dale and Sons,North West,Banking,B,250-1000,2019-03-19
-55,Bailey-Allen,Other,Private Equity,C,1000+,2024-05-19
-56,Williams Group,London,Tech,B,<50,2021-06-23
-57,Rahman PLC,London,Energy,B,50-250,2025-07-10
-58,Hunt-Smith,London,Energy,A,50-250,2026-01-08
-59,Daly PLC,Other,Media,C,250-1000,2018-09-14
-60,Naylor and Sons,London,Private Equity,B,50-250,2022-06-13
-61,Chapman Ltd,Other,Media,A,250-1000,2023-08-04
-62,"Hughes, Ford and Oliver",London,Healthcare,B,250-1000,2016-03-09
-63,"Brown, Norton and Lawrence",London,Tech,B,50-250,2017-09-15
-64,Williams LLC,South East,Tech,C,1000+,2017-08-13
-65,Evans-Murray,Scotland,Private Equity,B,250-1000,2023-02-07
-66,Jenkins and Sons,Wales,Banking,B,<50,2020-09-06
-67,Hanson-Marshall,London,Energy,B,250-1000,2015-01-05
-68,Hancock-Storey,Scotland,Tech,A+,<50,2019-07-03
-69,Davis-Yates,London,Private Equity,A+,1000+,2015-06-14
-70,Hunt-Reed,London,Retail,A,250-1000,2024-12-09
-71,"Scott, McCarthy and Cooper",London,Private Equity,A,<50,2025-06-01
-72,Hughes Inc,London,Banking,B,1000+,2021-12-21
-73,Lowe-Mills,London,Banking,B,250-1000,2018-02-14
-74,Poole LLC,South East,Banking,A+,250-1000,2021-10-08
-75,Kennedy Group,Scotland,Banking,B,<50,2022-06-14
-76,Brown Group,Scotland,Retail,B,50-250,2019-02-07
-77,"Parker, Gibbs and Stevens",London,Tech,B,<50,2022-04-04
-78,Roberts-Wood,London,Healthcare,A,50-250,2019-07-03
-79,Wilson-Frost,Other,Banking,A,<50,2018-12-18
-80,Harding and Sons,North West,Retail,C,<50,2018-06-06
-81,"Law, Porter and Smith",South East,Retail,B,50-250,2021-09-11
-82,"Jackson, Lloyd and Daniels",North West,Education,C,<50,2015-06-25
-83,Hall-Marshall,South East,Healthcare,B,<50,2023-04-25
-84,Davies and Sons,London,Energy,A+,50-250,2017-02-14
-85,"Hughes, Hewitt and Wood",Scotland,Energy,B,1000+,2025-03-29
-86,"Robinson, Jones and Gibson",South East,Banking,A,1000+,2022-04-22
-87,Richards-Begum,London,Energy,B,250-1000,2014-03-05
-88,"Thompson, Faulkner and Smith",London,Banking,A,250-1000,2020-11-04
-89,Webb LLC,South East,Retail,C,50-250,2018-03-22
-90,Stokes-Davey,Other,Retail,A+,250-1000,2014-05-01
-91,Lyons Ltd,South East,Energy,B,250-1000,2021-07-15
-92,Johnston-Webb,London,Retail,C,50-250,2022-04-17
-93,Hayes-Hobbs,Other,Private Equity,C,250-1000,2017-03-11
-94,"Webster, Gibbons and Wilson",London,Banking,B,250-1000,2022-12-26
-95,Wallis Inc,North West,Banking,B,50-250,2023-10-14
-96,Brown-Shaw,Other,Retail,A,1000+,2014-09-01
-97,"Norman, Hall and Henry",London,Tech,A,<50,2024-06-05
-98,Henry-Taylor,North West,Energy,C,250-1000,2015-12-15
-99,"Rogers, Russell and Joyce",London,Private Equity,C,<50,2025-09-18
-100,"Bell, Clarke and Oliver",Scotland,Retail,A,250-1000,2021-05-10
-101,Owens-Vaughan,London,Retail,A,250-1000,2015-02-26
-102,Walton and Sons,London,Education,A+,50-250,2024-03-04
-103,Lawrence Group,South East,Private Equity,B,<50,2014-05-22
-104,Sharp-Thomas,Other,Banking,A,1000+,2021-11-27
-105,Owen LLC,South East,Healthcare,A+,1000+,2017-01-16
-106,Warren PLC,London,Retail,B,50-250,2022-05-25
-107,Ahmed-Miller,Other,Private Equity,A,<50,2016-02-17
-108,"Bell, White and Carey",Scotland,Tech,C,50-250,2017-03-30
-109,Barnett-Lee,Other,Retail,C,50-250,2020-03-30
-110,Clark PLC,London,Energy,C,50-250,2018-01-04
-111,Scott PLC,Other,Tech,B,250-1000,2015-09-02
-112,Brooks LLC,North West,Banking,A,1000+,2023-05-24
-113,Davies and Sons,North West,Banking,B,1000+,2023-12-18
-114,Khan-Singh,London,Tech,C,<50,2018-11-14
-115,Peters Ltd,North West,Media,A,1000+,2022-03-09
-116,Wood-Schofield,Scotland,Energy,B,250-1000,2025-06-10
-117,Manning LLC,London,Media,A,50-250,2019-12-07
-118,Evans Inc,London,Energy,B,250-1000,2016-01-26
-119,Lee-Brown,Scotland,Energy,A+,50-250,2016-12-23
-120,White-Vaughan,London,Retail,C,250-1000,2024-07-12
-121,"Dale, Smith and Akhtar",North West,Tech,A+,1000+,2023-04-14
-122,"Shaw, Hawkins and Miles",London,Energy,C,1000+,2018-08-03
-123,Khan-Connolly,Other,Banking,A,250-1000,2014-09-07
-124,"White, Sinclair and Jenkins",North West,Banking,C,50-250,2017-11-19
-125,"Knowles, Craig and Dobson",South East,Tech,A,<50,2017-07-18
-126,McCarthy-Collier,South East,Transport,B,50-250,2018-02-08
-127,"Spencer, Lloyd and Walton",North West,Private Equity,A,250-1000,2017-07-23
-128,Smith Ltd,Scotland,Manufacturing,C,50-250,2015-05-27
-129,"Burns, Howard and Henderson",South East,Energy,B,<50,2018-11-29
-130,Atkinson Ltd,London,Transport,A,50-250,2023-08-01
-131,Long-Robinson,London,Media,A,50-250,2018-03-09
-132,Dobson PLC,South East,Education,A,50-250,2023-08-04
-133,Davies-Burgess,Scotland,Media,A,<50,2022-06-10
-134,"Cooper, Harvey and Clark",South East,Energy,A,50-250,2021-07-18
-135,Hill Inc,Wales,Media,B,1000+,2019-05-25
-136,Blackburn and Sons,London,Banking,A+,50-250,2022-01-12
-137,Scott LLC,London,Banking,C,50-250,2020-08-28
-138,"Barnett, Davies and Reid",South East,Healthcare,A,<50,2015-04-18
-139,Kay Inc,Other,Retail,C,250-1000,2019-05-16
-140,Randall-Brady,North West,Tech,B,250-1000,2015-11-03
-141,"Norris, Owen and Clarke",London,Banking,A,50-250,2021-02-17
-142,"Booth, Bond and Clark",South East,Tech,C,250-1000,2020-07-13
-143,Griffiths PLC,London,Manufacturing,B,50-250,2021-02-09
-144,Lee-Fletcher,Wales,Private Equity,A,250-1000,2016-07-09
-145,"Howells, Wright and Swift",Other,Tech,A,50-250,2020-10-10
-146,Stevenson-Price,London,Tech,A,250-1000,2016-04-14
-147,"Porter, Thomas and Kaur",Scotland,Healthcare,B,50-250,2025-11-01
-148,Kelly Group,London,Retail,A+,50-250,2019-07-30
-149,"Morris, Marsh and Burns",London,Energy,B,50-250,2016-05-26
-150,"Bishop, Griffiths and Hodgson",North West,Energy,C,1000+,2016-09-11
-151,Roberts Group,South East,Education,C,50-250,2025-07-26
-152,"Sanders, Nelson and Rhodes",London,Banking,A,250-1000,2024-02-27
-153,"Davey, Marsh and Davis",London,Energy,A,250-1000,2014-10-06
-154,"Evans, Sykes and Owens",London,Manufacturing,A,50-250,2018-11-14
-155,"Hussain, Wall and Fletcher",London,Transport,A+,<50,2015-11-16
-156,Harris-Cole,London,Retail,B,<50,2025-10-22
-157,Brown Ltd,Scotland,Tech,B,50-250,2018-06-19
-158,"Campbell, Thompson and Booth",South East,Tech,B,1000+,2017-02-15
-159,Roberts Ltd,South East,Healthcare,A,50-250,2024-10-30
-160,"Birch, Gill and Hill",London,Banking,C,<50,2025-08-11
-161,Hill LLC,London,Manufacturing,A,50-250,2016-05-25
-162,Shaw Ltd,London,Transport,B,50-250,2015-12-26
-163,Woodward-Hill,North West,Retail,B,50-250,2022-02-15
-164,"Barker, Kelly and Williams",London,Banking,B,<50,2018-07-14
-165,Ahmed Group,North West,Retail,B,250-1000,2025-08-21
-166,James Group,London,Banking,B,1000+,2025-11-09
-167,"Barnett, Nash and Green",Scotland,Energy,A+,1000+,2018-05-07
-168,Wilkinson and Sons,South East,Education,B,1000+,2017-11-20
-169,Moss Inc,London,Tech,A+,50-250,2018-10-07
-170,Henry LLC,Scotland,Energy,A,50-250,2016-10-24
-171,Boyle Group,North West,Energy,B,<50,2024-07-02
-172,"Hutchinson, Bell and Cooper",South East,Retail,A,50-250,2025-08-11
-173,Walsh-Allen,London,Energy,A,50-250,2020-12-24
-174,Davies Inc,Scotland,Tech,C,<50,2018-09-01
-175,"Robinson, Cooke and Williams",Other,Manufacturing,A,250-1000,2025-01-09
-176,Davey Group,Other,Tech,B,50-250,2014-10-18
-177,Wright Inc,North West,Retail,B,250-1000,2025-12-23
-178,"Watkins, Benson and Smith",South East,Private Equity,A+,<50,2020-03-04
-179,"Burns, Taylor and Hutchinson",London,Tech,B,50-250,2016-02-22
-180,Hill PLC,North West,Banking,B,1000+,2018-11-23
-181,Austin Group,South East,Energy,B,1000+,2019-06-19
-182,Wilkinson Group,North West,Energy,B,50-250,2017-07-28
-183,Stevens-Rose,South East,Energy,B,<50,2018-04-10
-184,Hunter-Jennings,North West,Energy,A,250-1000,2021-08-25
-185,"Smart, Byrne and Wright",South East,Retail,C,<50,2019-03-15
-186,Griffin-Morgan,London,Education,A,250-1000,2023-12-26
-187,"Warren, Cook and Burns",London,Retail,B,250-1000,2025-01-29
-188,"Adams, Watts and Dawson",South East,Manufacturing,C,1000+,2021-05-31
-189,Brennan Inc,London,Healthcare,B,50-250,2025-10-30
-190,Mellor-Porter,Other,Retail,C,50-250,2024-04-02
-191,"Morris, Morris and Dunn",North West,Tech,B,50-250,2024-05-08
-192,Smith Inc,South East,Tech,B,250-1000,2020-10-27
-193,Robinson-Carter,Scotland,Energy,C,250-1000,2014-04-25
-194,Powell-Parkinson,Scotland,Private Equity,C,50-250,2025-12-20
-195,"Gregory, Preston and Reynolds",Scotland,Energy,A,50-250,2024-01-12
-196,Day-Welch,Scotland,Private Equity,B,<50,2016-08-27
-197,"Howell, Matthews and King",London,Manufacturing,C,<50,2017-06-27
-198,Young PLC,North West,Tech,A,1000+,2019-04-21
-199,Clark Inc,North West,Banking,B,<50,2021-06-13
-200,Glover and Sons,Wales,Retail,A+,<50,2019-07-09
-201,Hicks-Allen,South East,Tech,B,250-1000,2025-12-14
-202,Taylor-Thompson,Other,Healthcare,B,50-250,2017-10-26
-203,Kemp Group,Other,Retail,B,<50,2018-12-24
-204,Hyde Inc,North West,Banking,B,50-250,2024-12-03
-205,Singh Group,London,Energy,B,50-250,2016-02-08
-206,"Ball, Howell and Jones",South East,Energy,A,50-250,2015-10-11
-207,"Mills, Harding and Evans",Scotland,Retail,B,50-250,2024-08-31
-208,Whitehead-Gibson,London,Private Equity,B,250-1000,2014-07-30
-209,Booth Inc,London,Banking,A,1000+,2016-03-14
-210,"Cook, Hunt and Franklin",South East,Manufacturing,C,1000+,2018-10-16
-211,"Bond, Ellis and Lord",North West,Education,A,50-250,2019-09-23
-212,Charlton LLC,London,Healthcare,B,50-250,2017-03-30
-213,Rogers-Johnston,Other,Tech,A,250-1000,2019-01-28
-214,"Harris, O'Connor and Ford",Scotland,Private Equity,A+,250-1000,2024-06-14
-215,"Green, Oliver and Knight",London,Banking,A,<50,2021-05-17
-216,Davies PLC,South East,Media,C,50-250,2020-11-23
-217,Harris and Sons,Other,Retail,C,50-250,2016-12-16
-218,"Jones, Campbell and Baker",London,Healthcare,B,50-250,2016-12-20
-219,"Ward, Moore and Bryan",South East,Private Equity,C,1000+,2015-12-29
-220,Miller Inc,London,Banking,A,50-250,2024-12-18
-221,Hill-Martin,London,Tech,C,<50,2015-02-27
-222,"Douglas, Wilson and Tucker",London,Healthcare,A+,250-1000,2025-01-10
-223,Fowler-Lucas,Scotland,Banking,B,<50,2016-12-15
-224,Metcalfe-Harvey,Scotland,Private Equity,C,<50,2020-04-21
-225,"Shah, Read and Williams",Scotland,Energy,C,250-1000,2019-01-05
-226,Moore and Sons,North West,Healthcare,A,50-250,2022-04-19
-227,Hewitt-White,London,Tech,C,<50,2021-12-28
-228,Richardson and Sons,Other,Banking,A+,50-250,2022-07-12
-229,"Jones, Lees and Hayes",Other,Healthcare,A,1000+,2022-12-21
-230,"Wright, Gill and Heath",Other,Energy,B,1000+,2016-01-27
-231,Chan Inc,North West,Media,B,50-250,2019-07-02
-232,Pearson-Doyle,South East,Retail,A,50-250,2025-07-14
-233,Bibi PLC,Scotland,Media,A+,250-1000,2024-01-26
-234,"Berry, West and Hamilton",South East,Education,C,50-250,2015-02-09
-235,Hughes Ltd,London,Private Equity,B,50-250,2021-05-30
-236,"Stephenson, Harvey and Cooper",South East,Retail,A,50-250,2020-05-23
-237,Moore Inc,London,Banking,B,1000+,2021-11-23
-238,"Chapman, Walker and Byrne",South East,Media,C,<50,2024-12-25
-239,Walker-Watts,South East,Healthcare,B,<50,2015-05-16
-240,Martin LLC,London,Media,A,50-250,2021-08-16
-241,"Jenkins, Marsh and Peters",Wales,Energy,B,<50,2023-11-07
-242,"Berry, Giles and Palmer",Wales,Banking,A,250-1000,2020-02-12
-243,"Duncan, Robinson and Mason",Other,Banking,A+,50-250,2017-12-24
-244,Elliott PLC,London,Energy,B,1000+,2021-02-22
-245,"Jackson, Walker and Butler",Scotland,Retail,B,50-250,2023-11-16
-246,Carter-Doyle,London,Private Equity,A,50-250,2021-10-30
-247,"Evans, Dunn and Berry",North West,Tech,B,50-250,2022-11-26
-248,Jones Ltd,London,Education,B,1000+,2020-09-16
-249,Burrows PLC,London,Tech,B,250-1000,2018-07-05
-250,Hart and Sons,London,Tech,C,50-250,2025-12-04
-251,"Hill, Cooke and Burns",South East,Banking,A+,250-1000,2014-02-22
-252,Evans-Harris,Other,Retail,B,250-1000,2019-07-08
-253,Hopkins and Sons,South East,Media,A,50-250,2014-09-20
-254,Summers-Kaur,South East,Transport,C,50-250,2018-01-23
-255,White-Evans,South East,Retail,B,<50,2019-09-01
-256,"Cook, Smith and Blake",London,Retail,A,50-250,2019-09-08
-257,Knight and Sons,Other,Manufacturing,C,<50,2022-07-24
-258,"Davies, Lawson and Jones",North West,Banking,A,50-250,2014-08-31
-259,Barnett and Sons,South East,Healthcare,B,250-1000,2020-05-13
-260,"Johnson, Smith and Anderson",London,Private Equity,A,1000+,2021-07-21
-261,Norman-Powell,London,Banking,A+,<50,2018-10-02
-262,Chadwick-Morrison,London,Private Equity,A,50-250,2017-06-02
-263,Lynch-Jenkins,London,Transport,A,50-250,2016-07-13
-264,"Phillips, Palmer and Nicholls",London,Banking,A+,50-250,2024-10-22
-265,Green Ltd,London,Healthcare,A+,250-1000,2015-10-18
-266,"Morgan, Arnold and Bryant",South East,Tech,C,50-250,2015-01-19
-267,"Kaur, Mason and Khan",London,Energy,B,250-1000,2021-04-26
-268,Ellis-Rose,London,Banking,A,1000+,2026-01-01
-269,Roberts-Weston,North West,Banking,B,250-1000,2016-12-06
-270,Rogers Ltd,South East,Education,A,250-1000,2017-06-04
-271,"Norton, Austin and Wheeler",Scotland,Energy,A,1000+,2019-05-24
-272,Marsh Inc,Other,Manufacturing,A,250-1000,2019-11-10
-273,"Harding, Martin and Walker",South East,Energy,A+,<50,2019-06-07
-274,Kirk Ltd,London,Transport,C,<50,2019-08-21
-275,Ferguson Group,Scotland,Energy,A,<50,2021-07-26
-276,"Goddard, Scott and O'Sullivan",North West,Tech,B,<50,2021-05-26
-277,"Wyatt, Green and Wells",London,Banking,A,250-1000,2019-01-13
-278,Shaw PLC,London,Tech,A,<50,2021-12-27
-279,"Jones, Hussain and Brown",London,Retail,B,<50,2023-12-28
-280,Myers-Shaw,London,Private Equity,A,<50,2018-05-14
-281,"Bradley, Ali and Fisher",Other,Banking,C,<50,2023-03-04
-282,Spencer Group,London,Tech,C,50-250,2018-05-11
-283,Hunt Group,South East,Manufacturing,A,<50,2020-11-13
-284,Slater and Sons,Scotland,Tech,B,<50,2019-11-21
-285,Tyler-Lawrence,South East,Retail,A+,<50,2020-07-13
-286,"Morris, Webster and Rogers",Other,Banking,B,<50,2021-03-30
-287,"Thomas, Fisher and Howarth",Other,Banking,C,50-250,2014-06-26
-288,Baker PLC,London,Retail,C,<50,2015-12-21
-289,Shepherd and Sons,South East,Banking,B,50-250,2023-03-27
-290,Cooke Ltd,South East,Healthcare,A,1000+,2016-06-12
-291,"Gregory, Scott and Bevan",South East,Tech,C,250-1000,2021-03-12
-292,Wilkinson-Jones,Other,Energy,C,50-250,2016-06-03
-293,Norton-Clayton,London,Education,A,<50,2017-07-27
-294,Leach Group,London,Education,A+,250-1000,2024-10-10
-295,Lambert Inc,Wales,Retail,C,1000+,2018-02-07
-296,"Hunt, Khan and Lloyd",Other,Tech,C,1000+,2023-12-01
-297,Edwards-Price,South East,Private Equity,B,250-1000,2024-11-05
-298,Rhodes-Barton,London,Transport,B,250-1000,2021-12-07
-299,Rose Ltd,Wales,Retail,A,50-250,2014-12-21
-300,Newman-Richardson,North West,Banking,C,<50,2014-10-18
-301,Baldwin-Wright,Other,Manufacturing,B,50-250,2025-05-15
-302,"Edwards, Long and Banks",South East,Tech,B,250-1000,2015-03-20
-303,Lloyd-Simpson,North West,Energy,B,1000+,2023-01-02
-304,"Jones, Lewis and Wilkinson",Other,Retail,A,50-250,2024-05-29
-305,"Wilson, Edwards and Daniels",South East,Energy,A+,50-250,2015-11-14
-306,Brown Group,London,Banking,C,<50,2015-06-24
-307,Evans Inc,London,Banking,C,50-250,2018-09-25
-308,Bailey-Long,North West,Healthcare,B,250-1000,2023-03-09
-309,Pickering LLC,North West,Media,B,<50,2015-10-01
-310,Robson-Moore,South East,Tech,C,50-250,2020-10-31
-311,Stewart Group,Wales,Healthcare,B,<50,2020-04-07
-312,"Green, Lane and Faulkner",North West,Retail,A,<50,2025-04-15
-313,Parry-Campbell,South East,Retail,A,50-250,2022-05-09
-314,Rice-Johnson,North West,Banking,B,50-250,2020-02-01
-315,Grant Ltd,Other,Banking,A,50-250,2014-03-04
-316,Thornton-Khan,London,Private Equity,A,50-250,2016-06-19
-317,"Evans, Tucker and Lewis",London,Retail,B,250-1000,2025-09-29
-318,Powell-Humphries,London,Banking,A,250-1000,2024-07-12
-319,Walters LLC,South East,Energy,C,50-250,2018-04-23
-320,"Robson, Humphreys and Hughes",London,Banking,C,50-250,2020-07-26
-321,Myers LLC,South East,Tech,B,1000+,2022-02-17
-322,"Sullivan, Dawson and Brooks",London,Energy,A,<50,2024-11-28
-323,"Scott, Turner and Sullivan",London,Energy,B,50-250,2025-04-18
-324,Middleton-Shaw,London,Private Equity,C,50-250,2021-10-16
-325,Harper-Bennett,South East,Energy,B,50-250,2025-07-24
-326,Reynolds-Williams,Scotland,Retail,A+,250-1000,2024-05-23
-327,Cole Group,South East,Tech,A,250-1000,2014-11-06
-328,Hunter PLC,North West,Tech,A,1000+,2019-04-23
-329,Joyce LLC,North West,Retail,C,50-250,2018-04-14
-330,Houghton-Lees,North West,Tech,A,1000+,2016-09-29
-331,"Williamson, Wall and Davis",North West,Banking,A,<50,2016-10-12
-332,Scott and Sons,Scotland,Tech,C,250-1000,2021-05-20
-333,"Cook, Norton and Taylor",South East,Private Equity,A,50-250,2017-12-14
-334,Mason-Gough,London,Tech,C,50-250,2017-01-01
-335,"Pritchard, Iqbal and Gill",London,Healthcare,A,250-1000,2023-05-05
-336,Briggs Inc,North West,Private Equity,C,<50,2018-03-06
-337,"O'Neill, Allen and Jackson",London,Manufacturing,C,<50,2017-12-26
-338,Rogers Group,South East,Media,B,<50,2017-05-03
-339,"Johnston, Atkinson and Doherty",Other,Transport,B,50-250,2025-05-02
-340,"Hudson, Heath and Bartlett",South East,Energy,A,250-1000,2014-12-16
-341,Tucker Ltd,London,Media,A,50-250,2014-11-17
-342,"Jones, Reed and Hunter",London,Tech,A,50-250,2018-05-05
-343,Parsons LLC,North West,Tech,A,<50,2014-05-12
-344,Hudson-Brown,London,Energy,A,50-250,2020-05-10
-345,Hayes-Payne,London,Banking,C,50-250,2019-04-08
-346,Peters PLC,Other,Retail,B,50-250,2023-04-08
-347,Hope-Weston,North West,Private Equity,A,250-1000,2014-10-23
-348,"Marshall, Palmer and Evans",London,Manufacturing,C,1000+,2015-02-14
-349,"Saunders, Skinner and Sheppard",North West,Transport,B,50-250,2019-04-09
-350,Bird and Sons,London,Retail,B,250-1000,2016-05-14
-351,Gallagher LLC,South East,Private Equity,A,250-1000,2023-12-21
-352,Johnson Ltd,North West,Healthcare,C,50-250,2021-09-09
-353,"Evans, Giles and Atkinson",North West,Banking,A,250-1000,2024-10-21
-354,"Davies, Hughes and White",London,Banking,B,50-250,2018-05-23
-355,"Austin, Graham and Holt",South East,Education,B,50-250,2024-04-30
-356,Knight-Walsh,Wales,Education,C,50-250,2014-08-19
-357,Thomas-Lowe,South East,Private Equity,B,50-250,2015-12-01
-358,Hayward and Sons,London,Energy,A+,1000+,2015-09-22
-359,Fisher and Sons,London,Banking,B,50-250,2015-03-23
-360,"Goddard, Smith and Jones",Other,Tech,C,50-250,2019-05-06
-361,Hale PLC,Scotland,Private Equity,A,250-1000,2022-08-01
-362,"Read, Johnson and Gallagher",London,Healthcare,B,50-250,2020-01-20
-363,Kelly-Ward,North West,Banking,C,250-1000,2018-11-12
-364,"Whitehouse, Morgan and Brooks",North West,Retail,B,50-250,2015-10-03
-365,"Kelly, Rose and Wilson",South East,Energy,C,<50,2024-10-04
-366,Porter-Hussain,North West,Banking,A,50-250,2016-10-09
-367,Scott-Lewis,North West,Banking,A,50-250,2023-04-25
-368,Coles Group,South East,Healthcare,A+,1000+,2020-04-10
-369,"Hutchinson, Davies and Powell",South East,Retail,B,50-250,2015-06-16
-370,Brown-Barlow,North West,Energy,A,<50,2019-05-26
-371,Lewis-Scott,South East,Private Equity,B,<50,2015-06-05
-372,Davies PLC,Wales,Tech,A+,50-250,2025-09-08
-373,"Cooper, Davies and Cunningham",London,Education,B,<50,2025-12-06
-374,Jones-Brady,London,Transport,B,50-250,2022-11-17
-375,Jones-Young,London,Retail,B,250-1000,2025-09-25
-376,Morgan LLC,South East,Banking,A,<50,2016-03-24
-377,Grant LLC,London,Energy,B,1000+,2017-12-21
-378,Page PLC,London,Banking,B,<50,2022-07-10
-379,Taylor and Sons,Other,Banking,B,<50,2023-06-13
-380,Bartlett Inc,London,Healthcare,B,250-1000,2015-10-14
-381,"Thompson, Stewart and Jones",London,Education,B,50-250,2023-05-07
-382,"Morley, Turner and Bennett",South East,Tech,C,<50,2017-03-13
-383,"Kirby, Hobbs and Hart",Scotland,Energy,C,50-250,2025-05-10
-384,Moss-Webb,London,Tech,B,1000+,2017-04-06
-385,Richardson-Evans,London,Tech,A,1000+,2018-09-03
-386,Russell Inc,London,Energy,B,50-250,2014-07-23
-387,White-Howe,South East,Banking,A,50-250,2020-07-26
-388,Brown-Porter,London,Energy,C,1000+,2025-07-19
-389,Wilson-Macdonald,South East,Private Equity,C,250-1000,2026-01-02
-390,"Ahmed, Robinson and Taylor",North West,Energy,A,50-250,2022-06-17
-391,Taylor and Sons,North West,Retail,A,50-250,2017-03-21
-392,Owens-Matthews,London,Tech,B,250-1000,2020-04-03
-393,Stewart-Ellis,London,Private Equity,B,<50,2017-09-09
-394,Campbell-Wall,London,Healthcare,A,50-250,2016-01-25
-395,"Willis, Matthews and Pearson",London,Banking,B,250-1000,2020-08-13
-396,Wells-White,Scotland,Energy,A,50-250,2019-08-03
-397,Edwards-Ryan,London,Education,C,1000+,2025-04-05
-398,"Bevan, Benson and Peacock",North West,Banking,A,50-250,2021-12-27
-399,"Ryan, Stone and Summers",London,Energy,A,1000+,2022-10-11
-400,Butler-Harding,Other,Banking,B,1000+,2020-04-19
-401,Bradley-Williams,South East,Retail,C,1000+,2017-09-24
-402,"Bird, Davies and James",South East,Banking,B,<50,2020-10-14
-403,Cooper PLC,Scotland,Transport,B,<50,2016-08-16
-404,Franklin-Griffiths,London,Education,C,50-250,2017-02-28
-405,Williams-Ryan,North West,Retail,A,250-1000,2020-04-09
-406,Dunn and Sons,Other,Banking,A,50-250,2015-05-22
-407,Shaw-Cox,London,Transport,B,<50,2018-05-12
-408,"Wilson, Lewis and Roberts",London,Energy,A,<50,2014-07-27
-409,Norton and Sons,South East,Banking,B,250-1000,2021-02-02
-410,"Adams, Morris and Hardy",Other,Energy,C,50-250,2020-08-06
-411,"Armstrong, Brown and Taylor",London,Healthcare,C,50-250,2024-04-24
-412,Miles LLC,London,Healthcare,B,50-250,2014-10-30
-413,"Johnston, Morris and Alexander",London,Energy,B,50-250,2024-03-16
-414,Hopkins-Watson,Scotland,Education,B,1000+,2016-12-06
-415,"Moss, Williams and Allen",North West,Retail,C,1000+,2024-05-10
-416,Giles-Roberts,North West,Tech,B,50-250,2024-04-12
-417,Ellis-Campbell,London,Energy,B,1000+,2024-12-30
-418,Randall Inc,London,Banking,C,250-1000,2020-01-05
-419,"Bradley, King and Owen",London,Transport,A,250-1000,2021-09-16
-420,Smith and Sons,Other,Private Equity,A,250-1000,2020-01-05
-421,"Rogers, Taylor and Baker",Wales,Media,B,50-250,2017-03-14
-422,"Mills, Black and Harvey",London,Energy,A,1000+,2021-01-11
-423,Farrell Ltd,Scotland,Manufacturing,B,1000+,2020-09-09
-424,Stewart LLC,North West,Private Equity,A+,<50,2014-02-21
-425,Adams Group,South East,Tech,B,250-1000,2020-02-01
-426,Payne-Dunn,London,Transport,A+,250-1000,2021-08-24
-427,"Howard, Jones and Miles",South East,Healthcare,B,50-250,2016-01-02
-428,Pearson PLC,North West,Banking,B,50-250,2020-06-29
-429,Gough-Wright,Wales,Healthcare,A+,250-1000,2025-06-15
-430,"Bond, Hope and Morgan",Wales,Energy,C,250-1000,2015-03-31
-431,Cook PLC,London,Private Equity,A,50-250,2019-12-12
-432,"Conway, Hawkins and Taylor",London,Retail,B,50-250,2023-03-17
-433,Patel-Parker,Scotland,Education,B,250-1000,2016-07-05
-434,George-Reid,London,Banking,B,1000+,2019-03-20
-435,O'Brien-Green,London,Tech,A,50-250,2018-05-30
-436,Stephens PLC,Other,Tech,B,50-250,2020-12-24
-437,Wood Inc,Wales,Education,A,50-250,2025-04-11
-438,Hall LLC,North West,Energy,C,1000+,2014-12-09
-439,"Thomas, Sharp and Watson",North West,Tech,C,50-250,2022-03-15
-440,Hilton Inc,South East,Manufacturing,A,250-1000,2024-05-17
-441,Thomas Ltd,London,Banking,B,1000+,2024-09-28
-442,"Davies, Naylor and Walker",Other,Retail,C,250-1000,2022-05-10
-443,Lewis-Nolan,London,Manufacturing,C,<50,2020-11-26
-444,Lee-Ahmed,London,Energy,B,250-1000,2015-10-12
-445,Smith Ltd,North West,Energy,B,50-250,2016-03-13
-446,Williams-Burke,North West,Tech,A,250-1000,2014-08-23
-447,Kennedy-Duffy,London,Education,B,50-250,2025-03-21
-448,Khan Ltd,Scotland,Healthcare,A,1000+,2017-06-03
-449,"Holden, Johnston and Garner",London,Private Equity,A,50-250,2016-05-17
-450,Bell Inc,North West,Healthcare,C,1000+,2019-11-17
-451,"Johnson, Doyle and Bird",North West,Retail,C,250-1000,2014-08-14
-452,"Lowe, Clark and Jones",Other,Transport,B,<50,2016-09-01
-453,Brown and Sons,Scotland,Healthcare,A,1000+,2016-06-14
-454,Jones-Sharpe,London,Healthcare,B,1000+,2023-06-03
-455,Holloway and Sons,South East,Energy,A,<50,2014-08-04
-456,Jones PLC,North West,Retail,C,250-1000,2025-07-27
-457,Scott PLC,London,Retail,B,250-1000,2018-09-19
-458,Grant PLC,South East,Healthcare,B,250-1000,2015-06-07
-459,Smith and Sons,North West,Private Equity,A,250-1000,2017-08-02
-460,Young-Price,London,Retail,B,250-1000,2024-07-03
-461,Armstrong Ltd,London,Energy,B,<50,2022-08-07
-462,"French, Hayward and Lee",Scotland,Retail,B,50-250,2020-05-17
-463,"Williams, Nicholls and Saunders",London,Tech,A+,<50,2016-01-17
-464,Lee and Sons,Scotland,Banking,B,50-250,2025-06-18
-465,Holt-Hardy,Other,Banking,C,250-1000,2020-06-17
-466,Wood Group,South East,Retail,C,50-250,2023-03-03
-467,Willis-Atkinson,Other,Energy,A,1000+,2014-05-30
-468,Ward-Woodward,London,Banking,B,250-1000,2017-07-27
-469,Smith and Sons,North West,Transport,C,<50,2025-04-25
-470,"Ingram, Stone and Carter",London,Transport,A,<50,2020-10-11
-471,Field LLC,London,Education,C,1000+,2017-05-22
-472,"Brooks, Cross and Sanders",Scotland,Education,C,250-1000,2014-12-31
-473,Richardson PLC,Wales,Education,B,50-250,2024-05-28
-474,"O'Neill, Williams and Mills",Scotland,Retail,B,250-1000,2021-08-03
-475,Cole-Clarke,Other,Private Equity,A,<50,2015-07-08
-476,"Wallis, Jackson and Cox",South East,Private Equity,A,<50,2021-03-31
-477,Farrell LLC,Scotland,Transport,A+,250-1000,2019-07-30
-478,Black-Barnes,London,Education,B,<50,2019-02-10
-479,Lee-Jones,Scotland,Energy,C,1000+,2018-10-12
-480,Bennett Inc,London,Healthcare,B,250-1000,2014-11-18
-481,"Andrews, Brown and Lewis",North West,Media,B,1000+,2021-09-05
-482,"Gardner, Price and Harris",Other,Energy,C,250-1000,2020-12-21
-483,Wright-James,London,Energy,A,250-1000,2019-03-28
-484,Parry-O'Neill,North West,Healthcare,B,50-250,2023-08-31
-485,Smith and Sons,London,Private Equity,B,<50,2025-09-06
-486,"Martin, Singh and Barrett",London,Retail,A,250-1000,2020-12-27
-487,"Slater, Savage and Parkes",South East,Education,B,50-250,2025-08-26
-488,Russell-Clark,South East,Healthcare,A,<50,2018-11-15
-489,Kaur and Sons,London,Media,C,250-1000,2017-10-05
-490,"Pearce, Gregory and West",London,Banking,C,50-250,2017-01-21
-491,Marshall-Cooper,South East,Energy,B,<50,2021-07-14
-492,Smith and Sons,North West,Tech,C,50-250,2023-08-01
-493,Richards-Baker,North West,Private Equity,A,<50,2025-02-07
-494,Nicholson-Douglas,South East,Tech,C,<50,2023-04-02
-495,Warren-Coates,South East,Education,B,50-250,2016-05-20
-496,Patterson-Pearson,Other,Banking,A,50-250,2016-05-22
-497,Allen-Griffiths,North West,Media,C,50-250,2024-04-09
-498,Burns-Russell,South East,Private Equity,B,50-250,2019-02-19
-499,"Lucas, Akhtar and Harrison",London,Private Equity,B,50-250,2017-09-06
+0,George PLC,Other,Banking,B,<50,2015-01-29
+1,"Mahmood, Reed and Richards",London,Manufacturing,A+,1000+,2014-06-08
+2,Phillips Ltd,London,Energy,C,250-1000,2019-07-26
+3,"Davies, McCarthy and Hughes",North West,Banking,B,50-250,2015-10-18
+4,Lewis Inc,North West,Banking,B,<50,2020-03-30
+5,Foster-Jenkins,London,Transport,A+,1000+,2024-10-20
+6,"Bird, Young and Kerr",North West,Tech,C,250-1000,2014-09-21
+7,Todd-Wyatt,North West,Banking,A+,<50,2018-06-25
+8,"Reid, Parker and Fisher",South East,Banking,B,<50,2016-06-12
+9,Brennan-Roberts,North West,Tech,B,50-250,2017-09-26
+10,Barker-Bates,North West,Healthcare,B,<50,2016-03-20
+11,Thomas-Davies,London,Energy,A,1000+,2025-04-10
+12,"Reeves, Stewart and Carey",London,Banking,A,<50,2023-04-07
+13,"Davey, Walton and Dodd",Other,Private Equity,C,<50,2020-08-09
+14,Wright-Kay,London,Banking,B,50-250,2024-05-16
+15,"Wilson, Henderson and May",North West,Manufacturing,B,50-250,2025-06-25
+16,"Carter, Brown and Harrison",London,Manufacturing,C,1000+,2015-03-30
+17,Rahman-Bennett,North West,Banking,B,<50,2021-04-12
+18,Holland Group,Other,Tech,A+,<50,2021-12-12
+19,"Jarvis, Bull and Ward",North West,Education,B,250-1000,2023-02-26
+20,Lucas-Holmes,Scotland,Healthcare,B,250-1000,2025-11-25
+21,Chapman Ltd,London,Retail,C,50-250,2017-09-05
+22,Curtis Group,London,Banking,A,50-250,2021-11-28
+23,Jones Ltd,London,Banking,A,1000+,2018-05-12
+24,Giles PLC,Other,Healthcare,A,<50,2014-09-14
+25,"Shah, Ford and Turner",South East,Media,A,<50,2024-07-01
+26,Hancock PLC,South East,Tech,A,250-1000,2019-07-03
+27,"Brown, Smith and Kelly",London,Retail,A+,50-250,2017-09-16
+28,Holt PLC,South East,Manufacturing,B,<50,2018-11-21
+29,"Lawrence, James and Boyle",South East,Media,A,50-250,2021-10-08
+30,Morgan-Singh,London,Tech,B,50-250,2024-07-28
+31,Birch LLC,Scotland,Energy,B,50-250,2021-03-03
+32,"Hughes, Scott and Kennedy",London,Tech,C,50-250,2018-04-09
+33,"Rogers, Burns and Conway",Wales,Private Equity,B,250-1000,2019-07-12
+34,"Thompson, Howe and Edwards",London,Energy,A,<50,2020-08-04
+35,Wood-Harding,London,Banking,A,50-250,2024-05-22
+36,Collins LLC,Scotland,Energy,B,50-250,2023-03-18
+37,Pearson and Sons,London,Media,A,50-250,2018-02-16
+38,Evans-Harris,London,Banking,A,50-250,2024-11-04
+39,Anderson Group,Other,Banking,A,1000+,2023-03-10
+40,Bishop-Graham,London,Healthcare,A,<50,2023-06-04
+41,Davies-Newton,London,Media,B,<50,2025-10-30
+42,"Davidson, Coates and Scott",South East,Retail,B,50-250,2025-09-30
+43,Clarke-Short,Scotland,Education,A+,<50,2022-07-17
+44,Webb-Davis,Scotland,Banking,A,50-250,2022-04-01
+45,Waters Group,North West,Retail,A,50-250,2021-12-02
+46,Stanley PLC,Other,Transport,B,1000+,2016-10-16
+47,Stephens-Lord,South East,Banking,C,50-250,2023-01-30
+48,Ingram-Murray,South East,Healthcare,C,50-250,2024-07-12
+49,"White, Law and Walker",South East,Healthcare,A+,50-250,2017-05-19
+50,"Arnold, Owens and Cooper",Other,Private Equity,B,1000+,2021-04-22
+51,Lees-Richardson,London,Transport,A,50-250,2017-10-23
+52,Greenwood-Graham,London,Energy,C,<50,2017-12-27
+53,Walker-Stevenson,London,Private Equity,A,<50,2023-06-06
+54,"Kaur, Pearson and Marsh",London,Education,A+,250-1000,2025-10-09
+55,Kelly and Sons,South East,Healthcare,A,<50,2019-04-02
+56,May-Bailey,London,Banking,A,1000+,2023-05-17
+57,Smith Inc,London,Healthcare,B,1000+,2024-11-09
+58,Reynolds Ltd,Scotland,Tech,A,50-250,2017-07-30
+59,"Brown, Baldwin and Bryant",London,Banking,A,50-250,2014-10-11
+60,Martin-Thomas,London,Banking,B,250-1000,2019-10-14
+61,O'Brien-Smith,London,Transport,A,50-250,2021-05-27
+62,"Williams, Bevan and Hardy",North West,Energy,C,1000+,2018-08-10
+63,Wall-Brown,North West,Healthcare,A,250-1000,2020-01-21
+64,Swift Ltd,Other,Private Equity,A,50-250,2023-11-24
+65,Armstrong-Finch,Other,Retail,C,1000+,2016-07-27
+66,"Pearson, Matthews and Williams",London,Private Equity,B,50-250,2019-04-02
+67,Davies-Bates,North West,Private Equity,B,<50,2021-09-11
+68,"Harvey, Price and Robinson",South East,Energy,C,<50,2018-11-06
+69,Houghton Group,Other,Energy,C,<50,2019-07-25
+70,Khan-Waters,London,Retail,C,50-250,2017-02-15
+71,Nelson Inc,Wales,Energy,C,50-250,2018-12-02
+72,"Hyde, Kent and Pearson",Other,Tech,A,50-250,2025-12-04
+73,"Fisher, Lane and Burton",London,Retail,B,250-1000,2024-03-21
+74,"Hardy, Taylor and Brown",Scotland,Private Equity,A,<50,2016-01-19
+75,"Gregory, Baxter and Bradley",South East,Retail,C,50-250,2021-11-20
+76,Howard PLC,North West,Retail,C,50-250,2019-01-22
+77,Jones-Gardner,South East,Retail,B,50-250,2024-09-15
+78,Hill PLC,Scotland,Tech,C,1000+,2015-12-15
+79,Watts PLC,South East,Transport,A,250-1000,2024-08-17
+80,"Adams, Faulkner and Hart",London,Energy,A,50-250,2015-08-20
+81,Gibson Group,Scotland,Tech,A,1000+,2025-12-30
+82,"Conway, Davies and Johnston",South East,Banking,C,50-250,2017-01-15
+83,Hayes-Walsh,North West,Transport,B,1000+,2017-10-18
+84,"Page, Sutton and Williams",Scotland,Healthcare,C,250-1000,2026-01-22
+85,Evans and Sons,South East,Transport,A,250-1000,2016-01-19
+86,"Fox, Bryant and Hopkins",London,Energy,A+,50-250,2017-04-01
+87,Nelson-Sheppard,South East,Tech,B,50-250,2017-06-16
+88,"Wood, Jones and Porter",London,Healthcare,A+,250-1000,2021-05-04
+89,Harper Group,Scotland,Manufacturing,A,<50,2021-03-29
+90,Noble Inc,Other,Tech,C,<50,2015-11-04
+91,Norton-White,London,Private Equity,A,50-250,2022-06-20
+92,Smith-Green,South East,Retail,A,250-1000,2015-08-24
+93,"Williams, Coleman and Wilson",London,Banking,B,1000+,2022-06-01
+94,Mills-Parsons,Other,Tech,A,<50,2018-03-24
+95,"Kay, Lawson and Joyce",London,Education,C,1000+,2014-10-25
+96,Evans and Sons,Wales,Energy,A,50-250,2014-07-13
+97,Jones Ltd,South East,Banking,A,<50,2015-08-08
+98,Jones and Sons,London,Retail,C,250-1000,2022-10-09
+99,Lloyd-Jackson,London,Healthcare,C,250-1000,2015-06-07
+100,Cooper Inc,South East,Banking,B,<50,2014-04-04
+101,Hart-Waters,London,Transport,B,250-1000,2022-05-21
+102,Kirk Inc,South East,Tech,A,1000+,2014-08-20
+103,"Herbert, Fox and Osborne",London,Media,B,50-250,2025-10-20
+104,James-Day,London,Media,B,250-1000,2022-10-27
+105,Long-Coleman,London,Banking,B,250-1000,2023-01-05
+106,"Holmes, Martin and Martin",South East,Manufacturing,A+,50-250,2018-07-02
+107,Thomas-Richards,Wales,Education,C,250-1000,2020-01-08
+108,Graham Inc,Other,Tech,A+,250-1000,2020-07-12
+109,Welch and Sons,London,Tech,C,<50,2020-03-31
+110,"Scott, Knight and Burton",London,Media,B,50-250,2026-01-22
+111,Jones Inc,Other,Education,B,50-250,2014-03-14
+112,"Williams, Harrison and Glover",South East,Education,A,250-1000,2018-12-12
+113,Wilson LLC,South East,Tech,A,1000+,2024-12-13
+114,"Cooper, Green and White",London,Tech,C,1000+,2024-11-26
+115,"Hawkins, Ball and Higgins",South East,Energy,B,1000+,2014-09-26
+116,Ryan-Harrison,Scotland,Healthcare,A,<50,2016-10-04
+117,Smith Inc,South East,Media,C,50-250,2022-01-24
+118,Hall PLC,London,Education,B,50-250,2020-08-12
+119,Jones-Walsh,London,Tech,A,50-250,2021-09-14
+120,Hussain-Adams,North West,Healthcare,A+,250-1000,2014-11-07
+121,Stevenson-Simpson,London,Tech,A+,<50,2020-11-09
+122,"Clarke, Curtis and Simpson",London,Energy,B,<50,2019-06-01
+123,"Davies, Howard and Pugh",London,Banking,C,<50,2019-05-08
+124,"Lee, Haynes and Lamb",London,Tech,B,50-250,2020-03-28
+125,"Cooper, Pickering and Warner",London,Media,A,50-250,2021-10-17
+126,"Gill, Hicks and Jones",London,Retail,A,50-250,2019-11-28
+127,"Stewart, Wright and Hill",South East,Education,A+,250-1000,2022-06-05
+128,Mills-Fraser,Wales,Tech,C,1000+,2017-07-09
+129,Stone Ltd,North West,Banking,A,50-250,2016-09-05
+130,Lewis PLC,Scotland,Private Equity,C,50-250,2025-07-17
+131,Allen-Garner,South East,Energy,B,1000+,2021-09-21
+132,Stewart-Bradshaw,Wales,Banking,B,250-1000,2025-10-28
+133,"Hussain, Taylor and Williams",London,Energy,C,1000+,2023-03-05
+134,Johnson-Young,London,Healthcare,B,1000+,2022-08-15
+135,"Williams, Hall and Vincent",London,Tech,B,250-1000,2014-08-24
+136,Collier-Evans,London,Energy,A,<50,2015-04-05
+137,"Coates, Higgins and White",Other,Healthcare,B,50-250,2026-01-17
+138,Cameron-Slater,London,Banking,C,<50,2017-01-31
+139,Jones LLC,London,Banking,A,50-250,2021-10-19
+140,James Group,London,Media,A,50-250,2020-08-06
+141,Gibson and Sons,London,Energy,B,<50,2017-09-12
+142,Houghton-Alexander,Scotland,Banking,A,50-250,2024-08-28
+143,Allen-Storey,North West,Media,A,1000+,2014-08-26
+144,Smith and Sons,Other,Banking,B,<50,2017-01-25
+145,"Taylor, Carpenter and Jarvis",South East,Tech,C,250-1000,2018-08-07
+146,Lloyd-Knowles,North West,Retail,B,<50,2024-01-05
+147,Kelly-Scott,London,Banking,B,<50,2024-05-26
+148,James-Archer,Scotland,Energy,B,1000+,2022-08-11
+149,Morgan PLC,Other,Energy,B,1000+,2014-03-02
+150,Spencer-King,North West,Tech,B,1000+,2021-01-13
+151,Fox-Thomas,Wales,Banking,A+,50-250,2021-04-02
+152,Wood Inc,London,Private Equity,B,1000+,2025-03-29
+153,Ali-Cooper,Scotland,Energy,A,50-250,2017-07-03
+154,"Finch, Mills and Wood",London,Education,B,250-1000,2018-08-04
+155,Webster-Black,Scotland,Media,B,50-250,2018-07-28
+156,"Heath, Smith and Griffiths",Scotland,Tech,A,250-1000,2019-03-06
+157,Chandler LLC,London,Banking,A+,50-250,2022-12-18
+158,Elliott-Hall,North West,Banking,A,1000+,2021-10-06
+159,Hill Group,South East,Education,A,<50,2025-10-11
+160,"Roberts, Morris and Hughes",London,Tech,A,<50,2022-04-22
+161,"Manning, Williams and Campbell",London,Media,A,250-1000,2020-05-31
+162,West-Metcalfe,North West,Private Equity,A,250-1000,2024-11-25
+163,Walsh Group,London,Private Equity,A,1000+,2023-01-03
+164,Smith-Gray,London,Healthcare,A,50-250,2021-01-23
+165,Booth Ltd,London,Energy,B,<50,2018-08-30
+166,"Wells, Thorpe and Edwards",North West,Healthcare,B,1000+,2017-03-09
+167,Tomlinson-Davey,London,Private Equity,B,<50,2023-05-19
+168,"Jackson, Robinson and O'Donnell",London,Energy,A,250-1000,2018-03-28
+169,Dean LLC,London,Healthcare,A,50-250,2017-08-14
+170,Bradley Group,North West,Banking,A,1000+,2016-02-15
+171,Stone-Smith,Other,Healthcare,C,1000+,2015-02-10
+172,Kelly Inc,London,Retail,B,<50,2019-05-23
+173,Owen-Tomlinson,South East,Private Equity,C,250-1000,2016-12-02
+174,"Cox, Hargreaves and Fisher",Scotland,Banking,C,250-1000,2015-07-01
+175,Johnson-Thomas,London,Tech,B,1000+,2022-06-18
+176,"Edwards, Johnson and Spencer",London,Banking,C,<50,2020-10-29
+177,Hughes-Holland,South East,Manufacturing,B,<50,2023-08-19
+178,Collins PLC,London,Retail,B,1000+,2015-12-27
+179,"Phillips, Gill and Davies",North West,Private Equity,C,250-1000,2020-04-16
+180,"Black, Alexander and Riley",North West,Banking,C,50-250,2014-11-19
+181,Burns and Sons,North West,Tech,B,250-1000,2018-02-21
+182,Russell PLC,London,Banking,A,250-1000,2016-03-14
+183,Conway PLC,London,Healthcare,A+,1000+,2022-08-29
+184,Allen-Hill,London,Manufacturing,B,1000+,2019-04-03
+185,Fisher-Bell,London,Healthcare,A,<50,2021-09-25
+186,Atkins-Allen,North West,Healthcare,C,1000+,2016-11-11
+187,Booth PLC,London,Retail,C,1000+,2015-03-21
+188,"Lewis, Franklin and Brown",London,Energy,B,<50,2014-06-06
+189,Fisher and Sons,London,Tech,A+,50-250,2018-12-09
+190,Barrett and Sons,London,Healthcare,B,50-250,2024-04-05
+191,Richards-Davies,North West,Tech,A,250-1000,2020-12-21
+192,"Jones, Archer and Johnson",Other,Banking,B,1000+,2020-05-09
+193,Herbert-Hall,Other,Tech,A,50-250,2015-05-03
+194,Gardner PLC,Other,Retail,C,1000+,2023-05-04
+195,Scott-Dean,Other,Transport,A,<50,2015-12-02
+196,Cooper-Singh,London,Healthcare,A,50-250,2021-10-02
+197,Thompson-Wilson,South East,Healthcare,C,250-1000,2023-11-08
+198,Miah-Clark,London,Energy,A,<50,2025-07-29
+199,Conway-Robinson,Wales,Energy,A,250-1000,2021-09-06
+200,"Mitchell, Dobson and Moore",London,Tech,A,1000+,2015-10-31
+201,Brown-Newman,North West,Education,B,250-1000,2023-02-13
+202,Hunter PLC,North West,Energy,B,50-250,2024-05-12
+203,Pickering Inc,South East,Banking,A,50-250,2020-06-10
+204,Wilson Ltd,North West,Energy,B,250-1000,2018-08-04
+205,Jordan Ltd,South East,Retail,A+,50-250,2015-09-27
+206,"Matthews, Adams and Smith",South East,Energy,B,50-250,2020-09-07
+207,Mills Group,South East,Energy,A,250-1000,2020-08-06
+208,Bradley and Sons,London,Private Equity,B,1000+,2023-04-27
+209,Stevens-Wright,London,Tech,B,<50,2014-04-22
+210,Young Inc,Other,Tech,C,1000+,2023-02-20
+211,Crawford-Patel,North West,Banking,A,250-1000,2017-02-17
+212,"Richards, Powell and Rogers",South East,Retail,A,<50,2021-05-24
+213,Smith-Adams,South East,Tech,B,<50,2021-07-22
+214,Roberts-Foster,Wales,Energy,B,<50,2023-10-05
+215,"Moore, Williams and Ford",North West,Healthcare,A+,50-250,2019-09-23
+216,Bolton Inc,London,Manufacturing,A,250-1000,2017-01-25
+217,Carr Group,Scotland,Banking,B,50-250,2023-02-28
+218,"Bailey, Sutton and Patel",Wales,Banking,B,<50,2016-09-10
+219,Smith-Bailey,London,Tech,C,250-1000,2019-07-25
+220,Elliott-Morris,London,Private Equity,A,<50,2017-12-10
+221,"Hunt, Scott and Bishop",Scotland,Manufacturing,B,250-1000,2017-12-09
+222,"Slater, Allen and Anderson",London,Private Equity,A+,<50,2020-01-31
+223,Manning LLC,Wales,Tech,C,250-1000,2023-02-22
+224,"Shah, Pickering and Power",Wales,Energy,B,250-1000,2025-06-09
+225,"Harrison, Stevens and Dodd",South East,Tech,A,<50,2014-07-01
+226,Rose PLC,Other,Retail,C,<50,2016-03-10
+227,"Warner, Lawson and Palmer",Other,Private Equity,B,250-1000,2020-06-29
+228,Peters Group,Scotland,Media,A,50-250,2018-10-19
+229,Burton Group,South East,Energy,B,50-250,2017-12-13
+230,"Stevenson, Young and Finch",London,Private Equity,B,50-250,2015-06-29
+231,"Barrett, Rogers and Smith",Scotland,Banking,A,250-1000,2019-05-27
+232,Smith Inc,Other,Tech,B,250-1000,2023-09-12
+233,"Ball, Walker and Lawson",Wales,Energy,A,250-1000,2023-12-12
+234,Cole Group,London,Retail,C,250-1000,2015-04-26
+235,Davis-Cox,London,Healthcare,A,250-1000,2023-04-08
+236,"Smith, Short and Jones",London,Tech,A,50-250,2018-12-29
+237,"Carey, Richardson and Murphy",London,Transport,A,1000+,2022-01-01
+238,"Thomas, Wright and Richards",London,Retail,A,1000+,2019-03-02
+239,Joyce Inc,London,Banking,B,1000+,2015-03-13
+240,Wyatt Ltd,South East,Banking,B,<50,2021-03-30
+241,Miles Ltd,North West,Banking,B,<50,2019-08-23
+242,Fox Ltd,London,Healthcare,C,50-250,2021-04-01
+243,Thompson Inc,London,Education,B,<50,2017-06-21
+244,"Murray, Ford and Adams",London,Banking,C,1000+,2022-03-10
+245,Steele-Payne,North West,Retail,A+,250-1000,2019-11-01
+246,"Lawrence, Parkin and Buckley",South East,Private Equity,C,50-250,2017-10-04
+247,Taylor Group,London,Energy,A+,250-1000,2018-08-30
+248,Mills-Smith,Wales,Banking,B,<50,2015-08-07
+249,Davison and Sons,London,Banking,A,50-250,2020-07-04
+250,"Moore, Gill and Wood",London,Education,B,50-250,2020-02-29
+251,Horton-Rogers,London,Banking,B,250-1000,2016-07-31
+252,Clarke Ltd,Other,Energy,A,250-1000,2021-03-01
+253,Henry-Hamilton,London,Tech,C,50-250,2022-08-21
+254,Webb-Sims,North West,Manufacturing,A,50-250,2020-12-29
+255,Cole Inc,Wales,Retail,C,250-1000,2020-08-05
+256,Barrett Inc,London,Manufacturing,A,1000+,2021-07-17
+257,"Richards, Clarke and Taylor",London,Retail,B,50-250,2023-08-25
+258,"Chapman, Cox and Cook",North West,Banking,A+,250-1000,2025-12-13
+259,Owen-Glover,Other,Banking,A,<50,2019-01-14
+260,Young-Moore,London,Banking,C,250-1000,2020-07-09
+261,Hardy Group,London,Energy,B,<50,2015-11-29
+262,"Thomas, Cox and Hall",Other,Media,B,50-250,2019-08-19
+263,"Ali, Hawkins and Arnold",North West,Education,A,50-250,2025-05-26
+264,Williams PLC,Wales,Tech,B,50-250,2015-10-29
+265,Thorpe and Sons,London,Energy,A,<50,2020-01-25
+266,Lucas-Clarke,London,Healthcare,A,<50,2019-09-08
+267,Akhtar-White,Other,Healthcare,B,<50,2016-04-09
+268,Bibi and Sons,London,Education,B,50-250,2015-04-25
+269,Evans and Sons,North West,Retail,A+,250-1000,2018-06-29
+270,"Douglas, Gibbs and Kennedy",London,Private Equity,C,50-250,2023-12-08
+271,Roberts-Burke,North West,Energy,C,250-1000,2025-07-04
+272,Dawson-Hudson,South East,Media,A,<50,2025-10-04
+273,Smith PLC,London,Tech,B,1000+,2024-07-14
+274,Anderson-Turner,London,Retail,B,1000+,2017-04-12
+275,Morley Inc,South East,Transport,A,<50,2021-04-20
+276,Dyer-Chambers,London,Banking,B,250-1000,2020-06-07
+277,Knowles-Hill,London,Energy,A,50-250,2015-04-05
+278,Allen LLC,South East,Tech,B,<50,2015-02-01
+279,"Butcher, Jones and White",Scotland,Tech,B,<50,2019-07-05
+280,Thomas PLC,London,Private Equity,C,50-250,2023-02-20
+281,Wright-Jones,London,Private Equity,A,1000+,2019-11-13
+282,"Clarke, Taylor and Cooper",London,Retail,B,<50,2016-02-07
+283,Smith-Griffiths,North West,Banking,C,50-250,2018-11-12
+284,"Graham, Thomas and Atkinson",North West,Manufacturing,B,50-250,2022-10-30
+285,Marshall-Burns,Scotland,Banking,B,1000+,2023-09-24
+286,"Watts, Pearson and Lewis",London,Media,A,<50,2017-03-28
+287,Whittaker Inc,South East,Private Equity,B,250-1000,2022-03-30
+288,Carr Ltd,South East,Energy,A,50-250,2019-11-01
+289,Dean LLC,North West,Energy,A,250-1000,2021-02-25
+290,Smith-Gough,London,Retail,A+,<50,2024-05-27
+291,Garner Inc,Wales,Energy,B,250-1000,2016-09-08
+292,Dale LLC,Other,Private Equity,A+,50-250,2022-07-09
+293,Begum PLC,South East,Banking,A,1000+,2018-03-02
+294,"Hussain, Smith and Stevenson",South East,Media,B,1000+,2025-03-03
+295,"Walker, Harding and Hooper",London,Healthcare,C,250-1000,2018-12-01
+296,Rose PLC,South East,Energy,C,50-250,2018-08-18
+297,"Cunningham, Patterson and Phillips",North West,Retail,B,250-1000,2019-03-06
+298,O'Neill-Slater,Scotland,Banking,B,1000+,2021-04-02
+299,Mills-Barnett,London,Energy,B,50-250,2016-02-11
+300,"Wood, Webb and Briggs",South East,Media,A,<50,2021-12-08
+301,"Chapman, Cooper and Murray",Scotland,Banking,C,50-250,2014-10-03
+302,Porter-Stevens,Other,Manufacturing,B,<50,2022-05-15
+303,Richards-Dobson,Other,Transport,B,250-1000,2014-05-19
+304,"Williams, Pearson and Briggs",London,Manufacturing,A,250-1000,2015-07-05
+305,Hancock Inc,South East,Private Equity,B,250-1000,2022-05-17
+306,Pickering-Davis,South East,Banking,A+,250-1000,2024-04-23
+307,Harrison-Taylor,South East,Tech,C,250-1000,2022-11-25
+308,Phillips and Sons,Wales,Tech,B,<50,2023-03-25
+309,"Davis, Jenkins and Cook",Wales,Media,B,50-250,2018-02-20
+310,"Hill, John and Anderson",Other,Healthcare,A+,250-1000,2022-06-25
+311,"Fuller, Ryan and Morris",London,Retail,B,250-1000,2023-08-03
+312,"Taylor, Hart and Wilson",South East,Private Equity,A,50-250,2021-04-15
+313,Francis-Smith,North West,Tech,A,50-250,2024-02-24
+314,"Harrison, Robinson and Graham",South East,Manufacturing,B,50-250,2023-02-25
+315,Hudson-Smith,London,Transport,B,1000+,2018-06-09
+316,Rice-Green,London,Tech,A,50-250,2016-11-15
+317,Oliver Ltd,London,Tech,B,<50,2019-04-22
+318,Phillips-Wilson,North West,Banking,A,<50,2021-04-20
+319,Foster-O'Neill,South East,Tech,C,250-1000,2021-12-25
+320,Davis LLC,South East,Healthcare,B,<50,2024-10-03
+321,Walker-Wilson,Scotland,Transport,B,1000+,2016-11-02
+322,"Kelly, Thomas and Knight",London,Healthcare,A,250-1000,2023-05-25
+323,Begum PLC,London,Banking,B,250-1000,2018-09-14
+324,Young PLC,London,Banking,A,50-250,2019-12-04
+325,"Burke, Miles and Baker",South East,Media,A,<50,2023-05-30
+326,Palmer-Smith,North West,Tech,B,50-250,2016-02-25
+327,Yates and Sons,London,Banking,A,<50,2019-07-29
+328,Leach-Smith,London,Tech,A+,<50,2022-07-30
+329,"Ingram, Webster and Doherty",London,Banking,C,50-250,2014-04-11
+330,Clayton-Banks,South East,Healthcare,C,1000+,2016-11-13
+331,Miller Ltd,South East,Media,B,250-1000,2017-11-27
+332,Stanley PLC,South East,Energy,A,250-1000,2015-02-04
+333,Ross Group,North West,Tech,B,<50,2021-02-19
+334,Ward and Sons,London,Tech,B,50-250,2019-05-01
+335,Taylor-Sullivan,North West,Private Equity,A,1000+,2025-03-01
+336,Ferguson and Sons,London,Tech,C,250-1000,2019-07-30
+337,Kirby-Mills,London,Private Equity,B,250-1000,2025-04-21
+338,Reynolds LLC,London,Private Equity,C,50-250,2017-11-13
+339,Farmer LLC,Scotland,Retail,B,50-250,2016-07-22
+340,"Dale, Blackburn and Harding",Other,Healthcare,A,1000+,2018-02-19
+341,Begum and Sons,London,Retail,B,50-250,2023-07-29
+342,Graham-Duffy,North West,Tech,A,250-1000,2017-07-21
+343,"Henderson, Harvey and Lamb",London,Banking,A+,<50,2016-06-08
+344,Hawkins Inc,London,Banking,A,<50,2022-08-09
+345,Walton-Hooper,South East,Retail,B,50-250,2014-10-11
+346,Smith-Stephens,London,Banking,C,250-1000,2020-10-26
+347,Roberts PLC,London,Private Equity,B,<50,2022-12-23
+348,Jones-Parker,Other,Manufacturing,C,<50,2016-05-15
+349,Ashton and Sons,South East,Healthcare,A,50-250,2015-08-17
+350,Hurst Inc,North West,Energy,B,1000+,2022-07-07
+351,Cartwright-Morrison,London,Private Equity,B,50-250,2020-06-22
+352,"Cooper, Hall and Talbot",North West,Banking,A,50-250,2017-11-10
+353,"Marshall, Shah and Wright",South East,Tech,A,50-250,2020-03-08
+354,Rees-Hudson,North West,Private Equity,C,250-1000,2017-02-10
+355,Ford-Murphy,London,Banking,B,250-1000,2019-01-09
+356,"Cole, Wilson and Williams",London,Manufacturing,C,<50,2025-12-06
+357,Dodd Inc,Scotland,Private Equity,C,250-1000,2016-10-03
+358,Jones-Webb,North West,Tech,B,50-250,2017-01-20
+359,Griffin-Jones,Scotland,Private Equity,B,50-250,2016-08-13
+360,"Porter, Wilson and Singh",London,Private Equity,C,50-250,2017-11-22
+361,Andrews Group,South East,Tech,B,50-250,2018-04-04
+362,Perry-Kirby,South East,Healthcare,B,250-1000,2021-07-16
+363,Lamb Inc,Other,Banking,A,250-1000,2025-10-31
+364,"Singh, Lee and Jones",Other,Tech,B,1000+,2024-06-10
+365,Thompson LLC,Scotland,Banking,A,1000+,2020-02-09
+366,Parker PLC,South East,Private Equity,B,<50,2022-03-14
+367,Kirby LLC,Scotland,Tech,B,<50,2021-03-09
+368,"Fletcher, Roberts and Butler",London,Private Equity,C,<50,2017-05-28
+369,"Hughes, Naylor and Jones",London,Media,B,<50,2025-05-09
+370,Wright-Armstrong,London,Retail,A,50-250,2014-11-15
+371,Barker-Johnson,London,Banking,B,50-250,2014-10-07
+372,Thompson Group,Wales,Private Equity,B,<50,2015-11-13
+373,"Fowler, Jones and Gray",London,Media,B,250-1000,2025-02-16
+374,Stokes-Thomas,London,Tech,A,1000+,2014-11-05
+375,Nelson-Miles,Other,Tech,A,50-250,2015-09-02
+376,Bailey LLC,London,Energy,A,250-1000,2025-05-04
+377,"Cole, Mitchell and Brown",South East,Banking,C,<50,2014-12-05
+378,Howells-Spencer,Scotland,Energy,B,<50,2024-11-04
+379,"Turner, Bond and Allen",London,Tech,B,50-250,2019-02-05
+380,Marsden-Patel,South East,Energy,A,1000+,2014-12-03
+381,Mills-Lloyd,Scotland,Energy,A+,<50,2023-11-17
+382,"Akhtar, Reeves and Robinson",London,Banking,C,250-1000,2018-08-29
+383,"Dodd, Thomas and Hall",North West,Private Equity,A,1000+,2023-04-26
+384,Hayes Group,London,Media,A,50-250,2022-12-14
+385,"King, Rhodes and Davey",London,Tech,A,<50,2020-06-17
+386,Dixon and Sons,London,Banking,A,50-250,2020-06-19
+387,Richardson Inc,London,Energy,A,<50,2015-03-24
+388,Goodwin Inc,North West,Tech,B,50-250,2025-06-05
+389,"Taylor, Johnson and Davis",London,Banking,A,250-1000,2023-03-03
+390,Fletcher and Sons,Scotland,Manufacturing,A,50-250,2016-01-24
+391,Stevenson-Stanley,South East,Manufacturing,A,50-250,2017-02-07
+392,Roberts Group,North West,Education,B,50-250,2016-11-30
+393,"Hudson, Adams and Allen",Other,Tech,A,<50,2019-11-01
+394,Bolton-Smith,South East,Private Equity,A+,<50,2014-12-30
+395,Kennedy-Owen,London,Tech,A,<50,2021-08-22
+396,Kent PLC,South East,Manufacturing,A,250-1000,2021-09-19
+397,Williams-Wallis,London,Private Equity,C,250-1000,2016-08-10
+398,"Payne, Miller and Mitchell",London,Tech,B,1000+,2021-03-08
+399,Edwards-Naylor,London,Tech,A+,50-250,2025-10-28
+400,Brown Ltd,London,Healthcare,A,<50,2023-07-02
+401,Wilson Inc,South East,Tech,B,<50,2017-12-11
+402,"Thomas, Wilson and Charlton",North West,Private Equity,B,250-1000,2023-12-31
+403,Sutton LLC,North West,Transport,A,50-250,2015-01-31
+404,"Phillips, Graham and Lowe",South East,Education,B,50-250,2016-09-07
+405,Hunter Group,London,Tech,A,50-250,2014-08-20
+406,Ferguson PLC,London,Education,C,<50,2020-07-02
+407,"Hodgson, Watts and Smith",Wales,Manufacturing,C,50-250,2017-10-21
+408,"Thomas, Wilson and Williams",South East,Manufacturing,B,1000+,2025-12-20
+409,"Taylor, Bell and Mitchell",London,Private Equity,B,50-250,2018-06-22
+410,"Johnson, Marsh and Day",North West,Education,B,50-250,2024-04-26
+411,Wilkinson-Nicholson,London,Healthcare,C,50-250,2022-10-01
+412,Price Group,South East,Banking,B,50-250,2025-11-12
+413,Elliott-Williams,North West,Banking,A+,<50,2019-11-21
+414,Smith Ltd,North West,Transport,C,<50,2020-08-13
+415,"Powell, Wong and Gallagher",North West,Tech,B,1000+,2021-04-11
+416,Norris LLC,Scotland,Banking,C,50-250,2020-07-04
+417,Owen-Jones,South East,Education,C,<50,2018-02-12
+418,Cross-Leonard,South East,Retail,C,1000+,2015-11-04
+419,"Collins, Carter and Brennan",Scotland,Banking,A,<50,2017-09-27
+420,"Williams, Wilson and Watson",London,Retail,C,1000+,2024-04-13
+421,Stokes PLC,South East,Banking,B,<50,2024-10-26
+422,"Taylor, Smith and Watkins",London,Media,A,250-1000,2015-03-27
+423,Greenwood Ltd,North West,Retail,A,250-1000,2019-01-21
+424,"Walker, Ward and Bell",Scotland,Tech,A,50-250,2022-10-14
+425,Haynes-Watts,London,Banking,A,1000+,2015-09-06
+426,"Smith, Davies and Baker",Scotland,Banking,B,250-1000,2024-05-22
+427,May LLC,London,Energy,C,50-250,2015-03-05
+428,Hill-Wilkinson,Other,Transport,A,50-250,2025-04-29
+429,"Booth, Cartwright and Scott",North West,Retail,B,1000+,2017-02-09
+430,Howarth-Wilkinson,Wales,Tech,A,50-250,2021-06-12
+431,Williams Ltd,South East,Tech,A+,<50,2022-03-04
+432,Bennett-Walker,London,Banking,B,250-1000,2022-01-06
+433,"Thomas, McLean and White",South East,Tech,C,50-250,2023-11-04
+434,Smith PLC,Other,Tech,B,50-250,2016-12-18
+435,Gibson Ltd,South East,Media,B,250-1000,2024-02-01
+436,"Jarvis, Lowe and Graham",South East,Banking,B,1000+,2019-02-25
+437,Green Inc,Scotland,Banking,C,50-250,2018-04-09
+438,"Barry, Jones and West",Scotland,Transport,B,1000+,2025-09-28
+439,Hall-Harding,North West,Media,C,50-250,2025-03-10
+440,"Jones, Clarke and Todd",Other,Healthcare,C,50-250,2015-01-28
+441,Hudson-Mason,Scotland,Retail,B,50-250,2020-07-24
+442,"Hopkins, Jones and Davis",Other,Banking,B,250-1000,2018-09-30
+443,French Inc,North West,Tech,B,250-1000,2021-04-24
+444,Hancock Ltd,London,Media,A,250-1000,2016-12-27
+445,Baker and Sons,Wales,Energy,B,<50,2025-11-27
+446,Hayes-Shah,South East,Retail,A,50-250,2024-12-25
+447,Rhodes and Sons,Scotland,Banking,A,50-250,2018-09-17
+448,Allen-Newton,London,Tech,C,1000+,2022-07-24
+449,"Harris, Jones and Chamberlain",Other,Education,C,50-250,2023-09-29
+450,"Scott, Stewart and Evans",London,Retail,B,250-1000,2018-06-06
+451,Barber and Sons,North West,Banking,C,50-250,2018-12-09
+452,Rose-Cooper,London,Private Equity,A+,<50,2024-11-26
+453,Bryant-Harrison,South East,Private Equity,B,50-250,2017-09-18
+454,Lane-Wood,South East,Banking,C,<50,2019-07-21
+455,Bell-Foster,North West,Banking,A+,50-250,2015-12-24
+456,"Parry, Howard and Matthews",North West,Banking,B,50-250,2020-05-10
+457,Cooke-Whittaker,Scotland,Private Equity,B,250-1000,2016-11-02
+458,Dean-Gordon,Other,Manufacturing,B,1000+,2023-08-24
+459,Young LLC,London,Tech,A,50-250,2021-06-04
+460,"Higgins, Harris and French",South East,Energy,B,50-250,2024-02-28
+461,Hodgson PLC,South East,Manufacturing,A,50-250,2021-01-07
+462,"Noble, Knight and Phillips",South East,Tech,B,1000+,2014-03-06
+463,Jones-Blackburn,South East,Tech,B,1000+,2025-12-31
+464,Smith LLC,Scotland,Healthcare,B,1000+,2016-07-06
+465,Martin-Payne,Wales,Healthcare,A+,250-1000,2021-01-16
+466,Jones-Bentley,London,Tech,B,<50,2014-07-17
+467,Griffiths PLC,London,Healthcare,A,250-1000,2025-09-09
+468,Williams and Sons,South East,Banking,A,50-250,2018-08-19
+469,"Butler, Wright and Stokes",North West,Private Equity,A,<50,2023-04-17
+470,Fowler-Holmes,Scotland,Education,A,<50,2019-06-07
+471,Davey-Forster,London,Manufacturing,A,250-1000,2025-08-26
+472,Jackson-Ali,London,Retail,B,1000+,2018-10-23
+473,"Thomas, Craig and Martin",London,Tech,A,50-250,2025-12-30
+474,"Butler, Mitchell and Jones",London,Tech,A,1000+,2016-05-10
+475,Bennett LLC,London,Transport,C,250-1000,2025-12-21
+476,Jones-Baldwin,Wales,Healthcare,A,<50,2021-05-07
+477,Cooke-Butcher,North West,Banking,A,50-250,2021-06-14
+478,"Evans, Brown and Kent",South East,Tech,A,250-1000,2022-05-18
+479,Spencer-Jackson,Other,Energy,A,<50,2018-01-06
+480,Howard-Phillips,Wales,Private Equity,C,50-250,2022-01-14
+481,"Scott, Harris and Newton",London,Energy,B,<50,2016-10-12
+482,Saunders Ltd,South East,Healthcare,B,<50,2025-03-28
+483,Humphries PLC,London,Banking,A,<50,2019-01-29
+484,"Gregory, Nicholls and Skinner",London,Tech,A,<50,2017-10-13
+485,Duffy LLC,London,Transport,B,250-1000,2016-05-27
+486,Smart and Sons,Other,Retail,A,250-1000,2025-11-04
+487,"Stanley, Jones and Martin",North West,Private Equity,A,1000+,2024-03-07
+488,Hart LLC,London,Transport,B,<50,2017-05-15
+489,Cooper-Watkins,London,Energy,B,50-250,2024-02-04
+490,Patel Ltd,North West,Tech,A,50-250,2020-06-07
+491,Jones Ltd,London,Private Equity,B,50-250,2020-11-25
+492,"Davies, Fitzgerald and Thompson",London,Banking,B,1000+,2017-02-26
+493,"Burton, Thompson and Smith",London,Banking,B,<50,2017-03-05
+494,Jones-Johnston,London,Tech,C,<50,2024-09-05
+495,"Davies, Gardner and Lambert",South East,Healthcare,C,1000+,2021-01-20
+496,Tomlinson Inc,London,Tech,B,250-1000,2015-04-04
+497,"Smith, Butler and Jones",London,Banking,A,1000+,2020-11-02
+498,"Adams, Moore and McDonald",Wales,Banking,B,50-250,2021-12-18
+499,Kelly and Sons,Other,Energy,B,50-250,2023-02-02
