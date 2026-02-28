@@ -30,9 +30,14 @@ client_data = pd.DataFrame({
     "industry": np.random.choice(industries, p=industry_weights),
     "tier": np.random.choice(tiers, p=tier_weights),
     "size": np.random.choice(company_sizes, p=size_weights),
-    "since_date": fake.date_between(start_date='-12y', end_date='today')
-    # for convenience, data assumes clients never leave
+    "start_date": fake.date_between(start_date='-12y', end_date='today'),
+    "end_date": None 
     } for i in range(500))
+
+# Set end_date for some clients (doing after df creation to ensure end_date is after start_date)
+for i in range(len(client_data)):
+    if rn.random() < 0.3:  # 30% of clients have ended relationship
+        client_data.at[i, "end_date"] = fake.date_between(start_date=client_data.at[i, "start_date"], end_date='today')
 
 ### FINANCIAL DATAFRAME: same clients as above, 8 years of data (one row per client per year)
 # Fields: Client ID, Year, Revenue, RWA
@@ -41,20 +46,24 @@ client_data = pd.DataFrame({
 
 financial_data = []
 for client_id in client_data["client_id"]:
-    this_year_rwa = round(rn.randint(100000, 50000000))  # Starting RWA for the client
-    this_year_revenue = round(this_year_rwa * rn.uniform(0.0, 0.2))  # Revenue is a function of RWA and a random RORWA
+    tier_multiplier = {"A+": 5, "A": 3, "B": 1.0, "C": 0.5}[client_data.at[client_id, "tier"]]
+    this_year_rwa = tier_multiplier * round(rn.randint(100000, 50000000))  # Starting RWA for the client
+    this_year_revenue = tier_multiplier*round(this_year_rwa * rn.uniform(0.0, 0.2))  # Revenue is a function of RWA and a random RORWA
     for year in range(2018, 2026):  # 8 years of data
-        financial_data.append({
-            "client_id": client_id,
-            "year": year,
-            # Allow for random IB revenue spikes without persisting next year
-            # e.g. from m&a fees
-            "revenue":round(this_year_revenue * rn.uniform(1.5, 5.0))
-               if rn.random() < 0.05
-               else this_year_revenue,
-            "rwa": round(rn.uniform(1e6, 1e9), 2),    
-            "rorwa": round(rn.uniform(0.01, 0.2), 4)  
-        })
+        # Only generate for years client has been with the bank
+        if client_data.at[client_id, "start_date"].year > year and (client_data.at[client_id, "end_date"] is None or client_data.at[client_id, "end_date"].year < year):
+                
+            financial_data.append({
+                "client_id": client_id,
+                "year": year,
+                # Allow for random IB revenue spikes without persisting next year
+                # e.g. from m&a fees
+                "revenue":round(this_year_revenue * rn.uniform(1.5, 5.0))
+                if rn.random() < 0.05
+                else this_year_revenue,
+                "rwa": round(rn.uniform(1e6, 1e9), 2),    
+                "rorwa": round(rn.uniform(0.01, 0.2), 4)  
+            })
         # Change RWA and revenue +/-10% and +/-20% for next year
         this_year_rwa *= rn.uniform(0.9, 1.1)  
         this_year_revenue *= rn.uniform(0.8, 1.2)  
